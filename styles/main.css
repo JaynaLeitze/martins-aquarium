@@ -1,5 +1,5 @@
 
-@import "./fish.css"
+@import "./fish.css";
 
 .contentContainer {
     display:flex;
@@ -9,19 +9,32 @@
 
 
 
-
-
 section, aside {
     border: 3px purple dotted;
 }
 .contentContainer__left {
  flex: 3;
- 
- 
+  
 }
-.contentContainer__right {
-flex: 1;
+.contentContainer_right {
+flex: 1 30px;
+margin-right:auto;
+text-align: center;
+
 }
 header {
     text-align: center;
+}
+.fishList {
+    display:flex;
+    flex-wrap: wrap;
+    border: 2x blue dashed;
+}
+.fish {
+    text-align: left;
+}
+head {
+    display:flex;
+    border: 2px black dashed; 
+
 }

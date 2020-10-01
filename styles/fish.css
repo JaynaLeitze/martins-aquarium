@@ -12,7 +12,10 @@
     height: 300px;
 }
 
-.sailfin {
-    width:375px;
-    height: 300px;
+.sailfin__tang {
+    width:150px;
+    
 }
+.filefish {                  
+    width: 150px;
+}                                
