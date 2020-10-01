@@ -1,21 +1,41 @@
-.information {
-    display: flex;
+
+
+
+.contentContainer {
+    display:flex;
     border: 3px black dotted;
-    flex-direction: column;
-    
 }
 
 .reef__photo {
-    width:300px;
-    height: auto;
+    width:375px;
+    height: 300px;
 
+}
+.fish__title {
+    text-align: center;
+}
+.mandarin {
+    
+}
+
+.sailfin {
+    width:375px;
+    height: 300px;
+}
+
+section, aside {
+    border: 3px purple dotted;
+}
+.contentContainer__left {
+ flex: 3;
+}
+.contentContainer__right {
+flex: 1;
+}
+header {
+    text-align: center;
 }
 .fish__info {
     display:flex;
-    border:3px black dotted;
-
-}
-.sailfin {
-    width:85%;
-    height: auto;
+    flex-wrap: wrap;
 }
