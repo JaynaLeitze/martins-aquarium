@@ -1,0 +1,21 @@
+.information {
+    display: flex;
+    border: 3px black dotted;
+    flex-direction: column;
+    
+}
+
+.reef__photo {
+    width:300px;
+    height: auto;
+
+}
+.fish__info {
+    display:flex;
+    border:3px black dotted;
+
+}
+.sailfin {
+    width:85%;
+    height: auto;
+}
