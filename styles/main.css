@@ -1,20 +1,16 @@
 
 @import "./fish.css";
+@import ".travel.css";
 body {
-    background-color: #559cad  ;
+    background-color:#e2f3f1  ;
 }
 
 .contentContainer {
     display:flex;
-    border: 3px black dotted;
    color: #2a324b;
 }
 
 
-
-section, aside {
-    border: 3px purple dotted;
-}
 .contentContainer__left {
  flex: 3;
   
@@ -22,33 +18,24 @@ section, aside {
 .contentContainer_right {
 flex: 1 30px;
 margin-right:auto;
-text-align: center;
+text-align: left;
+padding: 10px;
+}
 
+
+header {
+    text-align:left;
+}
+.travelContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+hr {
+   border-top: 10px solid #fe938c;
 }
 .aquarium {
-    text-align: center;
-    color: #fed766;
-}
-.fishList {
-    display:flex;
-    flex-wrap: wrap;
-    border: 2x blue dashed;
-    background-color: #fed766;
-   
-}
-.fish {
-    text-align: center;
-    background-color:#acfcd9 ;
-    padding: 20px;
-}
-head {
-    display:flex;
-    border: 2px black dashed; 
+    background-color: #fe938c ;
+    color:  #2a324b;
+    padding-top:20px;
 
-}
-.quotes {
-    text-align: center;
-}
-.locations {
-    text-align: center;
 }

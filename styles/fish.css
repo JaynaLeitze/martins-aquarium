@@ -2,9 +2,7 @@
    width:150px;
 
 }
-.fish__title {
-    text-align: center;
-}
+
 .mandarin {
     width:375px;
     height: 300px;
@@ -17,4 +15,25 @@
 .filefish {                  
     width: 150px;
 }  
-           
+.fishList {
+    display:flex;
+    flex-wrap: wrap;
+    border: 2x blue dashed;
+;
+   
+}
+
+
+fish__item {
+    padding:20px;
+     
+}
+.fishContainer {
+    display: flex;
+
+}
+.fishCard {
+    display:flex;
+    padding:10px; 
+
+}
