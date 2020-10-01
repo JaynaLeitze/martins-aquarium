@@ -1,41 +1,27 @@
 
-
+@import "./fish.css"
 
 .contentContainer {
     display:flex;
     border: 3px black dotted;
+   
 }
 
-.reef__photo {
-    width:375px;
-    height: 300px;
 
-}
-.fish__title {
-    text-align: center;
-}
-.mandarin {
-    
-}
 
-.sailfin {
-    width:375px;
-    height: 300px;
-}
+
 
 section, aside {
     border: 3px purple dotted;
 }
 .contentContainer__left {
  flex: 3;
+ 
+ 
 }
 .contentContainer__right {
 flex: 1;
 }
 header {
     text-align: center;
-}
-.fish__info {
-    display:flex;
-    flex-wrap: wrap;
 }

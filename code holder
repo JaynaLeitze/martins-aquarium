@@ -1,0 +1,22 @@
+ <div class="fish">
+                        <h4>Sailfin Tang</h4>
+                        
+                        <p>Name: Dot</p>
+                        <p>Species: Zebrasoma veliferum</p>
+                        <p>Size: Up to 15 inches</p>
+                        <p>Location: South Pacific</p>
+                        <p>Diet: microalgae</p>
+                    </div>
+                    <div class="fish">
+                        <h4>Green Mandarin</h4>
+                       
+                        <p>Name: James</p>
+                        <p>Species: Synchiropus splendidus</p>
+                        <p>Size: 4 inches </p>
+                        <p>Location: Sheltered lagoons and inshore reefs</p>
+                        <p>Diet: Carnivore</p>
+                    </div>
+                
+
+
+                
