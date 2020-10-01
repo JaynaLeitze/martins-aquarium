@@ -1,10 +1,13 @@
 
 @import "./fish.css";
+body {
+    background-color: #559cad  ;
+}
 
 .contentContainer {
     display:flex;
     border: 3px black dotted;
-   
+   color: #2a324b;
 }
 
 
@@ -22,19 +25,30 @@ margin-right:auto;
 text-align: center;
 
 }
-header {
+.aquarium {
     text-align: center;
+    color: #fed766;
 }
 .fishList {
     display:flex;
     flex-wrap: wrap;
     border: 2x blue dashed;
+    background-color: #fed766;
+   
 }
 .fish {
-    text-align: left;
+    text-align: center;
+    background-color:#acfcd9 ;
+    padding: 20px;
 }
 head {
     display:flex;
     border: 2px black dashed; 
 
+}
+.quotes {
+    text-align: center;
+}
+.locations {
+    text-align: center;
 }

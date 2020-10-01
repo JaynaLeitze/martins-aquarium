@@ -1,7 +1,5 @@
-.reef__photo {
-    width:50%;
-    left:0px;
-    right: 0px;
+.reef_photo {
+   width:150px;
 
 }
 .fish__title {
@@ -18,4 +16,5 @@
 }
 .filefish {                  
     width: 150px;
-}                                
+}  
+           
