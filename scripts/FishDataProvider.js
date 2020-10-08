@@ -6,12 +6,13 @@
  */
 const fishCollection = [
     {
+            Image:"./images/orange-spotted.jpeg" ,
             Name: "Dot",
             Species: "Sailfin Tang",
             Length: "Up to 15 inches",
             Location: "South Pacific",
             Diet: "microalgae",
-            Image: "https://i.redd.it/stdlqgg3b6811.jpg",
+            
     },
     {
         Name: "Fabio",
