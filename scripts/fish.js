@@ -1,12 +1,12 @@
 export const Fish = (fish) => {
     return `
     <div class="fish">
-    <img class="fish__image" href="${fish.image}" alt="">
-    <p class="fish__name">Name:${fish.name}</p>
-    <p class="fish__species">Species: ${fish.species}</p>
-    <p class="fish__length">Size Class: ${fish.length} </p>
-    <p class="fish__location">Location: ${fish.location}</p>
-    <p class="fish__Diet">Diet: ${fish.diet} </p>
+    <img class="fish__image" src="${fish.Image}" alt="">
+    <p class="fish__name">Name:${fish.Name}</p>
+    <p class="fish__species">Species: ${fish.Species}</p>
+    <p class="fish__length">Size Class: ${fish.Length} </p>
+    <p class="fish__location">Location: ${fish.Location}</p>
+    <p class="fish__Diet">Diet: ${fish.Diet} </p>
 </div>
 `
 }
