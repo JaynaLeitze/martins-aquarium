@@ -61,3 +61,13 @@
                         </div>
                     </section>
                 </article>
+
+                <div class="tip">
+                        <p class="tip__topic">Water Salinization</p>
+                        <p class="tip">Pick up a testing kit to monitor the water's pH, nitrate,
+                            nitrite, ammonia and phosphate levels. Also, watch the water's gravity,
+                            or temperature-dependent salinity reading. While most marine life can handle a
+                            range of salt content, they need it to remain consistent at whatever level they become
+                            accustomed to.
+                            Make prompt corrections when necessary.</p>
+                    </div>
