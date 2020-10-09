@@ -8,11 +8,13 @@ body {
 .contentContainer {
     display:flex;
    color: #2a324b;
+   flex-wrap:wrap;
 }
 
 
 .contentContainer__left {
  flex: 3;
+ 
   
 }
 .contentContainer_right {

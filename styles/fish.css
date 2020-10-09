@@ -30,6 +30,7 @@ fish__item {
 }
 .fishContainer {
     display: flex;
+    flex-wrap:wrap;
 
 }
 .fishCard {
